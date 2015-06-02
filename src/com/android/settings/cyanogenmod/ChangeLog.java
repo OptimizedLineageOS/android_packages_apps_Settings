@@ -16,8 +16,10 @@
 
 package com.android.settings.cyanogenmod;
 
+import in.uncod.android.bypass.Bypass;
 import android.app.Fragment;
 import android.os.Bundle;
+import android.text.method.LinkMovementMethod;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -61,7 +63,10 @@ public class ChangeLog extends Fragment {
         }
 
         final TextView textView = new TextView(getActivity());
-        textView.setText(text);
+        Bypass bypass = new Bypass(getActivity());
+        CharSequence string = bypass.markdownToSpannable(text);
+        textView.setText(string);
+        textView.setMovementMethod(LinkMovementMethod.getInstance());
 
         final ScrollView scrollView = new ScrollView(getActivity());
         scrollView.addView(textView);

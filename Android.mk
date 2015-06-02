@@ -11,8 +11,10 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
 
 LOCAL_MODULE_TAGS := optional
 
+src_dirs := src src_bypass
+
 LOCAL_SRC_FILES := \
-        $(call all-java-files-under, src) \
+        $(call all-java-files-under, $(src_dirs)) \
         src/com/android/settings/EventLogTags.logtags
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
@@ -26,6 +28,9 @@ LOCAL_SRC_FILES += \
         src/com/android/display/IPPService.aidl
 
 LOCAL_PACKAGE_NAME := Settings
+
+LOCAL_JNI_SHARED_LIBRARIES := libbypass
+
 LOCAL_CERTIFICATE := platform
 LOCAL_PRIVILEGED_MODULE := true
 
