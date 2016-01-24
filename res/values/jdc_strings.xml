@@ -39,6 +39,10 @@
     <string name="more_things_summary">Issue report, ROM thread etc.</string>
     <string name="rom_thread">ROM thread</string>
     <string name="rom_thread_summary">Discuss about this ROM on XDA-Developers</string>
+    <!-- QS -->
+    <string name="qs_fast_data_enable">Hide data usage summary</string>
+    <string name="qs_fast_data_enable_sum_on">Enable or disable mobile data when the mobile data icon is pressed</string>
+    <string name="qs_fast_data_enable_sum_off">Show mobile data usage summary when the mobile data icon is pressed</string>
     <!-- SWAG stuff -->
     <string name="missing_clicks">3 clicks left</string>
     <string name="weird_shit">MSS - Most Secret Stuff</string>

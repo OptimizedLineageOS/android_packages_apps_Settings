@@ -57,6 +57,13 @@
             android:title="@string/qs_brightness_slider_title"
             android:defaultValue="true"/>
 
+	<com.android.settings.cyanogenmod.CMSecureSettingSwitchPreference
+	    android:key="qs_fast_data_enable"
+	    android:title="@string/qs_fast_data_enable"
+	    android:summaryOn="@string/qs_fast_data_enable_sum_on"
+	    android:summaryOff="@string/qs_fast_data_enable_sum_off"
+	    android:defaultValue="false"/>
+
         <com.android.settings.cyanogenmod.SecureSettingSwitchPreference
             android:key="qs_location_advanced"
             android:title="@string/qs_advanced_location_title"

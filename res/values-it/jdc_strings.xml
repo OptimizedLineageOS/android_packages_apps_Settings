@@ -36,6 +36,10 @@
     <string name="more_things_summary">Segnalazione problemi, thread della ROM ecc.</string>
     <string name="rom_thread">Thread</string>
     <string name="rom_thread_summary">Discuti di questa ROM su XDA-Developers</string>
+    <!-- QS -->
+    <string name="qs_fast_data_enable">Nascondi utilizzo dati</string>
+    <string name="qs_fast_data_enable_sum_on">Abilita o disabilita la connessione dati quando l\'icona è premuta</string>
+    <string name="qs_fast_data_enable_sum_off">Mostra l\'utilizzo dei dati mobili quando l\'icona connessione dati è premuta</string>
     <!-- SWAG stuff -->
     <string name="missing_clicks">Mancano 3 pressioni</string>
     <string name="weird_shit_summary">Triste per il problema riscontrato? Prova a premere qui...</string>
