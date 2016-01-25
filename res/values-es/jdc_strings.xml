@@ -33,7 +33,7 @@
     <string name="custom_rom_info_summary">Version del Android, version del kernel, información legal, nombre y etc.</string>
     <!-- JDCTeam Google+ Community shortcut -->
     <string name="community">JDCTeam en Google+</string>
-    <string name="community_summary">Unete a nuestra comunidad oficial y mantente informado sobre el mejor software para tu dispositivo</string></string>
+    <string name="community_summary">Unete a nuestra comunidad oficial y mantente informado sobre el mejor software para tu dispositivo</string>
     <!-- More things screen -->
     <string name="more_things">Mas</string>
     <string name="more_things_summary">Informe de error, hilo de la ROM y etc.</string>
