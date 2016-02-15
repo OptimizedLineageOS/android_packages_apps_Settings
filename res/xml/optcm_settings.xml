@@ -17,6 +17,7 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
         android:title="@string/optcm_settings">
 	
+    <!--UI Preferences-->
     <PreferenceCategory
         android:title="@string/ui_preferences">
 	<PreferenceScreen
@@ -53,7 +54,6 @@
 			android:targetPackage="com.jdcteam.toolbox"
 			android:targetClass="com.jdcteam.toolbox.ToolboxMain"/>
 	</PreferenceScreen>
-	<!--android:targetClass="com.gokhanmoral.stweaks.app.MainActivity"/>-->
 	
      </PreferenceCategory>
 	
