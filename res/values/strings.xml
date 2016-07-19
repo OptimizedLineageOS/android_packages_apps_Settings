@@ -7249,6 +7249,12 @@
 
     <!-- Toast message letting the user know the color temperature setting is not immediate -->
     <string name="color_temperature_toast">To apply color change, turn off screen</string>
+    
+    <!--Contributing team-->
+    <string name="contributing_team_menu">Contributing team</string>
+    
+    <!--Contributing team names-->
+    <string name="contributing_names">JDCTeam\n\nTest Team's XDA profiles:\nCreeper36\nsjamie\nfeedmee\ngdreaper\nSkL</string>
 
     <!-- Name of the setting to disable the automatic update -->
     <string name="ota_disable_automatic_update">Automatic system updates</string>
