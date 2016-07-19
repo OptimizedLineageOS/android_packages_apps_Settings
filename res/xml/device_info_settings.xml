@@ -107,7 +107,6 @@
 			android:key="contributing_team"
 			android:title="@string/contributing_team_menu"
 			android:summary="@string/contributing_names" />
-		</PreferenceScreen>
 
 	        <!-- Device firmware version -->
 		<Preference android:key="firmware_version"
