@@ -7254,7 +7254,7 @@
     <string name="contributing_team_menu">Contributing team</string>
     
     <!--Contributing team names-->
-    <string name="contributing_names">JDCTeam\n\nTest Team's XDA profiles:\nCreeper36\nsjamie\nfeedmee\ngdreaper\nSkL</string>
+    <string name="contributing_names">JDCTeam\n\nTest Team\u2019s XDA profiles:\ncreeper36\nsjamie\nfeedmee\ngdreaper\nSkL\nchibbo</string>
 
     <!-- Name of the setting to disable the automatic update -->
     <string name="ota_disable_automatic_update">Automatic system updates</string>
@@ -7402,7 +7402,7 @@
         <item>@*android:string/megabyteShort</item>
         <item>@*android:string/gigabyteShort</item>
     </string-array>
-
+   
     <!-- [CHAR LIMIT=30] Label for setting to control the default spell checker -->
     <string name="default_spell_checker">Default spell checker</string>
 
