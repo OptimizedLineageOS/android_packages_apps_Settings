@@ -69,6 +69,13 @@
 	  android:key="network_traffic"
 	  android:title="Network Traffic"
 	  android:fragment="com.android.settings.NetworkTraffic"/>
+	  
+	<!-- Recent panel settings -->
+	<PreferenceScreen
+	  android:key="recents_panel"
+	  android:title="@string/recents_panel_title"
+          android:fragment="com.android.settings.crdroid.RecentsPanelSettings"/>
+
 
 	<PreferenceScreen
 	  android:key="More"
