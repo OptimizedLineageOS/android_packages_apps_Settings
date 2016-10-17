@@ -235,6 +235,7 @@ public class SettingsActivity extends SettingsDrawerActivity
     private static final String PROFILEMGR_MAIN_FRAGMENT = "com.android.settings.ProfileMgrMain";
     private static final String MOBILENETWORK_FRAGMENT = "com.android.settings.MobileNetworkMain";
     private static final String SYSTEM_UPDATE = "android.settings.SystemUpdateActivity";
+    private static final String OPTCM_FRAGMENT = "com.android.settings.OptCMSettings";
     private String mFragmentClass;
     private String mActivityAction;
 
@@ -1079,6 +1080,13 @@ public class SettingsActivity extends SettingsDrawerActivity
             return null;
         }
 
+	if (OPTCM_FRAGMENT.equals(fragmentName)) {
+            Intent OptCMIntent = new Intent();
+            OptCMIntent.setClassName("com.android", "com.android.settings.MainActivity");
+            startActivity(OptCMIntent);
+            finish();
+            return null;
+        }
 
         if (validate && !isValidFragment(fragmentName)) {
             throw new IllegalArgumentException("Invalid fragment for this activity: "

@@ -127,10 +127,14 @@
 
         <activity android:name=".Settings$WirelessSettings"
             android:label="@string/header_category_wireless_networks">
-            <intent-filter android:priority="4">
+            <intent-filter android:priority="5">
                 <action android:name="com.android.settings.category.wireless" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
+        </activity>
+	
+	<activity android:name=".Settings$OptCMSettings"
+            android:label="@string/optcm_settings">
         </activity>
 
         <activity android:name=".Settings$DeviceSettings"
@@ -1003,6 +1007,12 @@
             <meta-data android:name="com.android.settings.PRIMARY_PROFILE_CONTROLLED"
                 android:value="true" />
         </activity>
+	
+	<activity android:name="Settings$OptCMSettings"
+                android:label="@string/optcm_settings"
+		android:icon="@drawable/ic_optcm_settings"
+                android:taskAffinity="">
+	</activity>
 
         <activity android:name="Settings$DisplaySettingsActivity"
                 android:label="@string/display_settings"
