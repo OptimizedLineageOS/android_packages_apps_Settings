@@ -7,7 +7,7 @@ public class OptCMSettings extends SettingsPreferenceFragment {
 		
 		@Override
 		protected int getMetricsCategory() {
-			return MetricsLogger.DEVICEINFO;
+			return 0;
 		}
 		
 		@Override
