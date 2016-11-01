@@ -135,14 +135,6 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-	
-	<activity android:name=".Settings$crDroidSettings"
-            android:label="@string/header_category_crdroid">
-            <intent-filter android:priority="4">
-                <action android:name="com.android.settings.category.crdroid" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
 
 
         <activity android:name=".Settings$DeviceSettings"
@@ -153,6 +145,13 @@
             </intent-filter>
         </activity>
 
+	<!--Optimized CM Settings-->
+	 <activity android:name="Settings$OptCMSettings"
+                android:label="@string/optcm_settings"
+                android:exported="true"
+                android:taskAffinity="">
+	</activity>
+	
         <activity android:name=".Settings$PersonalSettings"
             android:label="@string/header_category_personal">
             <intent-filter android:priority="2">
@@ -968,12 +967,7 @@
                 android:value="true" />
         </activity>
 	
-	<!--Optimized CM Settings-->
-	 <activity android:name="Settings$OptCMSettings"
-                android:label="@string/optcm_settings"
-                android:exported="true"
-                android:taskAffinity="">
-	</activity>
+	
 
         <activity android:name="Settings$DisplaySettingsActivity"
                 android:label="@string/display_settings"
