@@ -130,11 +130,20 @@
 
         <activity android:name=".Settings$WirelessSettings"
             android:label="@string/header_category_wireless_networks">
-            <intent-filter android:priority="4">
+            <intent-filter android:priority="5">
                 <action android:name="com.android.settings.category.wireless" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+	
+	<activity android:name=".Settings$crDroidSettings"
+            android:label="@string/header_category_crdroid">
+            <intent-filter android:priority="4">
+                <action android:name="com.android.settings.category.crdroid" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
 
         <activity android:name=".Settings$DeviceSettings"
             android:label="@string/header_category_device">
@@ -958,6 +967,13 @@
             <meta-data android:name="com.android.settings.PRIMARY_PROFILE_CONTROLLED"
                 android:value="true" />
         </activity>
+	
+	<!--Optimized CM Settings-->
+	 <activity android:name="Settings$OptCMSettings"
+                android:label="@string/optcm_settings"
+                android:exported="true"
+                android:taskAffinity="">
+	</activity>
 
         <activity android:name="Settings$DisplaySettingsActivity"
                 android:label="@string/display_settings"
