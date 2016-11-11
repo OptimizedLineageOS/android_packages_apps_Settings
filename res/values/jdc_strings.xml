@@ -18,4 +18,10 @@
     <string name="optcm_settings">Optimized CM Settings</string>
     <string name="optcm_apps">Optimized CM Apps</string>
     
+    <!--Contributing team-->
+    <string name="contributing_team_menu">Contributing team</string>
+    
+    <!--Contributing team names-->
+    <string name="contributing_names">CyanogenMod\n\nJDCTeam\n\nTest Team's XDA profiles:\ncreeper36\nsjamie\nchibbo\nfeedmee\ngdreaper\nSkL\n-Deco-</string>
+ 
  </resources>

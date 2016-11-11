@@ -70,9 +70,10 @@
                 android:title="@string/device_feedback">
         </PreferenceScreen>
 
-        <!-- Contributors cloud -->
-        <org.cyanogenmod.internal.cmparts.CMPartsPreference
-                android:key="contributors" />
+        <!-- Contributors -->
+        <Preference android:key="device_model"
+                android:title="@string/contributing_team_menu"
+                android:summary="@string/contributing_names"/>
 
         <!-- Device hardware model -->
         <Preference android:key="device_model"
