@@ -498,7 +498,7 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment implements In
         public void setListening(boolean listening) {
             if (listening) {
                 mSummaryLoader.setSummary(this, mContext.getString(R.string.about_summary,
-                        ""));
+                        Build.VERSION.RELEASE));
             }
         }
     }
