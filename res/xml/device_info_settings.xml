@@ -71,7 +71,7 @@
         </PreferenceScreen>
 
         <!-- Contributors -->
-        <Preference android:key="device_model"
+        <Preference android:key="contributing_team"
                 android:title="@string/contributing_team_menu"
                 android:summary="@string/contributing_names"/>
 
