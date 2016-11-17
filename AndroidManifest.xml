@@ -145,12 +145,16 @@
             </intent-filter>
         </activity>
 
-	<!--Optimized CM Settings-->
-	 <activity android:name="Settings$OptCMSettings"
-                android:label="@string/optcm_settings"
-                android:exported="true"
-                android:taskAffinity="">
-	</activity>
+        <!-- Optimized CM Settings -->
+        <activity android:name="Settings$OptCMSettings"
+            android:label="@string/optcm_settings">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="org.jdcteam.settings.fragments.OptCMSettings" />
+		</activity>
 	
         <activity android:name=".Settings$PersonalSettings"
             android:label="@string/header_category_personal">

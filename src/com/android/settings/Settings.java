@@ -52,6 +52,7 @@ public class Settings extends SettingsActivity {
     public static class HomeSettingsActivity extends SettingsActivity { /* empty */ }
     public static class DisplaySettingsActivity extends SettingsActivity { /* empty */ }
     public static class NightDisplaySettingsActivity extends SettingsActivity { /* empty */ }
+	public static class OptCMSettingsActivity extends SettingsActivity { /* empty */ }
     public static class DeviceInfoSettingsActivity extends SettingsActivity { /* empty */ }
     public static class ApplicationSettingsActivity extends SettingsActivity { /* empty */ }
     public static class ManageApplicationsActivity extends SettingsActivity { /* empty */ }
@@ -161,5 +162,4 @@ public class Settings extends SettingsActivity {
     public static class DeviceSettings extends SettingsActivity { /* empty */ }
     public static class PersonalSettings extends SettingsActivity { /* empty */ }
     public static class SystemSettings extends SettingsActivity { /* empty */ }
-    public static class OptCMSettings extends SettingsActivity { /* empty */ }
 }
