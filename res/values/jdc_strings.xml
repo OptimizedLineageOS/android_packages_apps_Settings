@@ -23,5 +23,19 @@
     
     <!--Contributing team names-->
     <string name="contributing_names">CyanogenMod\n\nJDCTeam\n\nTest Team\u2019s XDA profiles:\ncreeper36\nsjamie\nchibbo\nfeedmee\ngdreaper\nSkL\n-Deco-</string>
+
+    <!-- Change Log strings -->
+    <string name="changelog_title">Changelog</string>
+    <string name="changelog_summary">OptimizedCM-14.1 changelog</string>
+    <string name="changelog_loading">Loading changelog\u2026</string>
+    <string name="changelog_error">Unable to load changelog</string>
+
+    <!-- Custom Settings -->   
+    <!-- Dashboard -->
+    <string name="header_category_custom">OptimizedCM Settings</string>
+    <string name="custom_settings_title">JDCTeam Custom Settings</string>
+    
+</resources>
  
+
  </resources>
