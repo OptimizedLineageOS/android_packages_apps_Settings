@@ -2817,6 +2817,7 @@
                 <action android:name=".applications.LockPatternActivity" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
+	</activity>
 
         <activity android:name="Settings$JDCSettingsActivity"
             android:label="@string/custom_settings_title"
