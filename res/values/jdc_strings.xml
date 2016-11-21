@@ -22,7 +22,7 @@
     <string name="contributing_team_menu">Contributing team</string>
     
     <!--Contributing team names-->
-    <string name="contributing_names">CyanogenMod\n\nJDCTeam\n\nTest Team\u2019s XDA profiles:\ncreeper36\nsjamie\nchibbo\nfeedmee\ngdreaper\nSkL\n-Deco-</string>
+    <string name="contributing_names">CyanogenMod and JDCTeam\nTest Team\u2019s XDA profiles:\ncreeper36\nsjamie\nchibbo\nfeedmee\ngdreaper\nSkL\n-Deco-</string>
 
     <!-- Change Log strings -->
     <string name="changelog_title">Changelog</string>
