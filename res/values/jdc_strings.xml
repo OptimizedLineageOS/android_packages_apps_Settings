@@ -33,6 +33,6 @@
     <!-- Custom Settings -->   
     <!-- Dashboard -->
     <string name="header_category_custom">OptimizedCM Settings</string>
-    <string name="custom_settings_title">JDCTeam Custom Settings</string>
+    <string name="custom_settings_title">OptimizedCM-14.1 Settings</string>
     
 </resources>
