@@ -132,6 +132,8 @@
     <style name="Theme.SettingsBase" parent="@android:style/Theme.DeviceDefault.Settings" />
 
     <style name="Theme.Settings" parent="Theme.SettingsBase">
+    
+	<item name="android:colorAccent">#ff59bbbf</item>
         <item name="preferenceTheme">@style/PreferenceTheme</item>
         <item name="@*android:preferenceHeaderPanelStyle">@style/PreferenceHeaderPanelSinglePane</item>
         <item name="@*android:preferencePanelStyle">@style/PreferencePanelSinglePane</item>
