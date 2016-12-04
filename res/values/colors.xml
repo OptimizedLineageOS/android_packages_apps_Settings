@@ -69,13 +69,6 @@
     <color name="running_processes_system_ram">#ff384248</color>
     <color name="running_processes_free_ram">#ffced7db</color>
 
-    <!--Background of Settings apk main screen-->
-    <color name="card_background">#ff696659</color>
-    <!--Background of Settings apk Suggestion submenu at main screen-->
-    <color name="card_background_grey">#596966</color>
-    <!--Divider-->
-    <color name="divider_color">#aa59bbbf</color>
-
     <color name="wifi_divider">#ffe0e0e0</color>
     <color name="sim_noitification">@*android:color/material_deep_teal_500</color>
 

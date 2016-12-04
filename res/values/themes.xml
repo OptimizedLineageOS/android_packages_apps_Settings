@@ -133,7 +133,7 @@
 
     <style name="Theme.Settings" parent="Theme.SettingsBase">
     
-	<item name="android:colorAccent">#ff59bbbf</item>
+	<item name="android:colorAccent">@color/settings_icons</item>
         <item name="preferenceTheme">@style/PreferenceTheme</item>
         <item name="@*android:preferenceHeaderPanelStyle">@style/PreferenceHeaderPanelSinglePane</item>
         <item name="@*android:preferencePanelStyle">@style/PreferencePanelSinglePane</item>

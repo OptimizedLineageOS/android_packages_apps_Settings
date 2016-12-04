@@ -21,6 +21,8 @@
     <!--Background of Settings apk Suggestion submenu at main screen-->
     <color name="card_background_grey">#596966</color>
     <!--Divider-->
-    <color name="divider_color">#aa59bbbf</color>
+    <color name="divider_color">#ff59bbbf</color>
+    
+    <color name="settings_icons">#ff50a8ab</color>
 
 </resources>
