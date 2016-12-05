@@ -17,12 +17,12 @@
 <resources>
 
     <!--Background of Settings apk main screen-->
-    <color name="card_background">#ff787569</color>
+    <color name="card_background">#f5f5dc</color>
     <!--Background of Settings apk Suggestion submenu at main screen-->
-    <color name="card_background_grey">#596966</color>
+    <color name="card_background_grey">#abab9a</color>
     <!--Divider-->
     <color name="divider_color">#ff59bbbf</color>
     
-    <color name="settings_icons">#ff50a8ab</color>
+    <color name="settings_icons">#ff7acc5f</color>
 
 </resources>
