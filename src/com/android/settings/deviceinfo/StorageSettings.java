@@ -178,7 +178,8 @@ public class StorageSettings extends SettingsPreferenceFragment implements Index
         int[] colorPrivate = getColorPrivate(getResources());
         for (VolumeInfo vol : volumes) {
             if (vol.getType() == VolumeInfo.TYPE_PRIVATE) {
-                final long volumeTotalBytes = getTotalSize(vol);
+                final long volumeTotalBytes = PrivateStorageInfo.getTotalSize(vol,
+                        sTotalInternalStorage);
                 final int color = colorPrivate[privateCount++ % colorPrivate.length];
                 mInternalCategory.addPreference(
                         new StorageVolumePreference(context, vol, color, volumeTotalBytes));
@@ -195,6 +196,7 @@ public class StorageSettings extends SettingsPreferenceFragment implements Index
                 ExStorageVolumePreference.setEnabled(vol.getState()!= VolumeInfo.STATE_CHECKING
                     && vol.getState() != VolumeInfo.STATE_EJECTING);
                 mExternalCategory.addPreference(ExStorageVolumePreference);
+
             }
         }
 
@@ -207,7 +209,6 @@ public class StorageSettings extends SettingsPreferenceFragment implements Index
                 final Drawable icon = context.getDrawable(R.drawable.ic_sim_sd);
                 icon.mutate();
                 icon.setTint(getColorPublic(getResources()));
-                icon.setTintMode(PorterDuff.Mode.SRC_ATOP);
 
                 final Preference pref = new Preference(context);
                 pref.setKey(rec.getFsUuid());
