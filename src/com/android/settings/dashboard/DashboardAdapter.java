@@ -131,7 +131,7 @@ public class DashboardAdapter extends RecyclerView.Adapter<DashboardAdapter.Dash
                         mContext.getTheme().resolveAttribute(tintColorValue.data,
                                 tintColorValue, true);
                     }
-                    tile.icon.setTint(tintColorValue.data).setTintMode(Mode.SRC_ATOP);
+                    tile.icon.setTint(tintColorValue.data);
                 }
             }
         }
