@@ -1936,14 +1936,6 @@
 
 
         <!-- Development settings -->
-
-        <!-- DeviceInfo adds the user's requested build to stats upload.  -->
-        <receiver android:name=".DeviceInfo$StatsReportReceiver">
-            <intent-filter>
-                <action android:name="android.intent.action.STATISTICS_REPORT" />
-            </intent-filter>
-        </receiver>
-
         <activity android:name="Display" android:label="@string/display_label"
                 android:configChanges="fontScale"
                 android:taskAffinity="com.android.settings"
@@ -2691,23 +2683,6 @@
                 <action android:name="android.intent.action.BOOT_COMPLETED" />$
             </intent-filter>$
         </receiver>
-
-        <!-- Anonymous Statistics -->
-        <receiver android:name=".cmstats.ReportingServiceManager"
-            android:enabled="true"
-            android:exported="false"
-            android:label="ReportingServiceManager">
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED" />
-                <action android:name="com.android.settings.action.TRIGGER_REPORT_METRICS" />
-            </intent-filter>
-        </receiver>
-
-        <service android:label="ReportingService"
-            android:enabled="true"
-            android:exported="false"
-            android:name=".cmstats.ReportingService">
-        </service>
 
 
         <!-- Watch for ContactsContract.Profile changes and update the user's photo.  -->
