@@ -15,8 +15,8 @@
 
     <!--Optimized CM Settings-->
     <string name="ui_preferences">UI Preferences</string>
-    <string name="optcm_settings">Optimized CM Settings</string>
-    <string name="optcm_apps">Optimized CM Apps</string>
+    <string name="optcm_settings">Optimized LineageOS Settings</string>
+    <string name="optcm_apps">Optimized LineageOS Apps</string>
     
     <!--Contributing team-->
     <string name="contributing_team_menu">Contributing team</string>
@@ -26,13 +26,13 @@
 
     <!-- Change Log strings -->
     <string name="changelog_title">Changelog</string>
-    <string name="changelog_summary">OptimizedCM-14.1 changelog</string>
+    <string name="changelog_summary">Optimized-LineageOS changelog</string>
     <string name="changelog_loading">Loading changelog\u2026</string>
     <string name="changelog_error">Unable to load changelog</string>
 
     <!-- Custom Settings -->   
     <!-- Dashboard -->
-    <string name="header_category_custom">OptimizedCM Settings</string>
-    <string name="custom_settings_title">OptimizedCM-14.1 Settings</string>
+    <string name="header_category_custom">Optimized-LineageOS Settings</string>
+    <string name="custom_settings_title">Optimized-LineageOS Settings</string>
     
 </resources>
