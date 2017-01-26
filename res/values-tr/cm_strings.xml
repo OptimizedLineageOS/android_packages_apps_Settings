@@ -838,12 +838,6 @@
   <string name="block_notifications_title">Bildirimleri filtrele</string>
   <string name="block_notifications_summary">Yoksayılan bildirimleri ve filtreleri yönet</string>
   <string name="no_filters_title">Hiçbir filtre ayarlanmadı</string>
-  <!-- Anonymous Statistics #CM -->
-  <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-  <string name="anonymous_statistics_title">CyanogenMod istatistikleri</string>
-  <string name="anonymous_statistics_summary">Anonim istatistik raporları göndererek CyanogenMod\'un daha iyi olmasına yardım edin</string>
-  <string name="anonymous_statistics_warning_title">Hakkında</string>
-  <string name="anonymous_statistics_warning">CyanogenMod İstatistiklerine dahil olmak kişisel olmayan verilerin CyanogenMod geliştiricilerine cihazlar arasındaki benzersiz yüklemeleri takip etmeleri için gönderilmesine izin verir. Bu bilgi, kişisel bilgi içermeyen ve gizliliğinizi tehdit etmeyen bir benzersiz numara da içerir. Veri her başlangıçta gönderilir.\n\nGönderilecek verinin örneğini görmek için Veriyi Önizle butonunu kullanın.</string>
   <string name="enable_reporting_title">Raporlamayı etkinleştir</string>
   <string name="preview_data_title">Veriyi önizle</string>
   <string name="view_stats_title">İstatistikleri görüntüle</string>

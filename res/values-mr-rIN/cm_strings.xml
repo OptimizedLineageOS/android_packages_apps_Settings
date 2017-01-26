@@ -835,12 +835,6 @@
   <string name="block_notifications_title">सूचना फिल्टर करा</string>
   <string name="block_notifications_summary">दुर्लक्ष केलेल्या सूचना आणि फिल्टर्स व्यवस्थापित करा</string>
   <string name="no_filters_title">कोणतेही फिल्टर्स सेट नाहीत</string>
-  <!-- Anonymous Statistics #CM -->
-  <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-  <string name="anonymous_statistics_title">CyanogenMod आकडेवारी</string>
-  <string name="anonymous_statistics_summary">अनामिक आकडेवारी अहवाल देणे निवडून CyanogenMod अधिक चांगले करण्यास मदत करा</string>
-  <string name="anonymous_statistics_warning_title">विषयी</string>
-  <string name="anonymous_statistics_warning">CyanogenMod आकडेवारी निवडल्यामुळे डिव्हाइसेवरील वैशिष्ट्यपूर्ण स्थापनेचा मागोवा घेण्यासाठी CyanogenMod च्या विकसकांकडे अ-वैयक्तिक डेटा सबमिट करण्यास परवानगी दिली जाईल. सबमिट केलेल्या माहितीमध्ये वैशिष्ट्यपूर्ण ओळखकर्त्याचा समावेश होतो, जो तुमच्या गुप्तता किंवा वैयक्तिक डेटाशी तडजोड करत नाही. डेटा प्रत्येक बूट दरम्यान सबमिट केला जातो.\n\nसबमिट केल्या जाणाऱ्या डेटाच्या उदाहरणासाठी, डेटा पूर्वावलोकन वर टॅप करा.</string>
   <string name="enable_reporting_title">अहवाल देणे सक्षम करा</string>
   <string name="preview_data_title">डेटा पूर्वावलोकन</string>
   <string name="view_stats_title">आकडेवारी पाहा</string>
