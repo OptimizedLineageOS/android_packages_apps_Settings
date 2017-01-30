@@ -7292,7 +7292,7 @@
     <string name="backup_disabled">Back up disabled</string>
 
     <!-- Summary of device info page [CHAR LIMIT=NONE] -->
-    <string name="about_summary">Optimized-CM-14.1</string>
+    <string name="about_summary">Optimized LineageOS-14.1</string>
 
     <!-- TODO: Update these strings with the finalized ones. -->
     <!-- Title for dialog displayed when user clicks on a setting locked by an admin [CHAR LIMIT=30] -->
