@@ -25,7 +25,7 @@
   <!--  Device Info screen. Confirmation that Device ID is copied to clipboard -->
   <string name="show_device_id_copied_cm">Идентификатор устройства: [<xliff:g id="device_id">%1$s</xliff:g>] скопирован в буфер обмена</string>
   <!--  Device Info screen. Confirmation that Device ID is not available -->
-  <string name="show_device_id_failed_cm">Идентификатор устройства недоступен на этой сборке</string>
+  <string name="show_device_id_failed_cm">Идентификатор устройства недоступен в этой сборке</string>
   <!-- [CHAR LIMIT=NONE] Device Info screen. Label for the deviceID text put to clipboard -->
   <string name="show_device_id_clipboard_label">Идентификатор устройства</string>
   <!-- [CHAR LIMIT=NONE] Device Info screen. Countdown for user taps to enable development settings -->
