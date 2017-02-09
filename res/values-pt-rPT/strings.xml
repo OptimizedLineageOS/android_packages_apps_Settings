@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -3033,7 +3033,8 @@
     <string name="location_on_summary" msgid="5127631544018313587">"ATIVADA/<xliff:g id="LOCATION_MODE">%1$s</xliff:g>"</string>
     <string name="location_off_summary" msgid="6474350053215707957">"DESATIVADA"</string>
     <string name="backup_disabled" msgid="485189128759595412">"Cópia de segurança desativada"</string>
-    <string name="about_summary" msgid="8460677224778433924">"Android <xliff:g id="VERSION">%1$s</xliff:g>"</string>
+    <string name="about_summary" msgid="8460677224778433924">"Optimized LineageOS-14.1"</string>
+
     <string name="disabled_by_policy_title" msgid="627023216027648534">"Ação não permitida"</string>
     <string name="default_admin_support_msg" msgid="239311515653633217">"Esta ação está desativada. Contacte o administrador da sua entidade para saber mais."</string>
     <string name="admin_support_more_info" msgid="8901377038510512654">"Mais detalhes"</string>

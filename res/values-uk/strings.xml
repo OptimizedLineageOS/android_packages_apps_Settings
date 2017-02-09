@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -3097,7 +3097,8 @@
     <string name="location_on_summary" msgid="5127631544018313587">"УВІМКНЕНО / <xliff:g id="LOCATION_MODE">%1$s</xliff:g>"</string>
     <string name="location_off_summary" msgid="6474350053215707957">"ВИМКНЕНО"</string>
     <string name="backup_disabled" msgid="485189128759595412">"Резервне копіювання вимкнено"</string>
-    <string name="about_summary" msgid="8460677224778433924">"Android <xliff:g id="VERSION">%1$s</xliff:g>"</string>
+    <string name="about_summary" msgid="8460677224778433924">"Optimized LineageOS-14.1"</string>
+
     <string name="disabled_by_policy_title" msgid="627023216027648534">"Дію не дозволено"</string>
     <string name="default_admin_support_msg" msgid="239311515653633217">"Цю дію вимкнено. Зверніться до адміністратора своєї організації, щоб дізнатися більше."</string>
     <string name="admin_support_more_info" msgid="8901377038510512654">"Докладніше"</string>
