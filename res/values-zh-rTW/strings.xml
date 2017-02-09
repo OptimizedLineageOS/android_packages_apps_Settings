@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -3037,7 +3037,8 @@
     <string name="location_on_summary" msgid="5127631544018313587">"開啟/<xliff:g id="LOCATION_MODE">%1$s</xliff:g>"</string>
     <string name="location_off_summary" msgid="6474350053215707957">"關閉"</string>
     <string name="backup_disabled" msgid="485189128759595412">"備份功能已停用"</string>
-    <string name="about_summary" msgid="8460677224778433924">"Android <xliff:g id="VERSION">%1$s</xliff:g>"</string>
+    <string name="about_summary" msgid="8460677224778433924">"Optimized LineageOS-14.1"</string>
+
     <string name="disabled_by_policy_title" msgid="627023216027648534">"不允許此操作"</string>
     <string name="default_admin_support_msg" msgid="239311515653633217">"這項操作已停用。請與貴機構的管理員聯絡以瞭解詳情。"</string>
     <string name="admin_support_more_info" msgid="8901377038510512654">"其他詳細資訊"</string>

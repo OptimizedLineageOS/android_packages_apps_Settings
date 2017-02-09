@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -3065,7 +3065,8 @@
     <string name="location_on_summary" msgid="5127631544018313587">"UKLJUČEN / <xliff:g id="LOCATION_MODE">%1$s</xliff:g>"</string>
     <string name="location_off_summary" msgid="6474350053215707957">"ISKLJUČEN"</string>
     <string name="backup_disabled" msgid="485189128759595412">"Pravljenje sigurnosnih kopija je onemogućeno"</string>
-    <string name="about_summary" msgid="8460677224778433924">"Android <xliff:g id="VERSION">%1$s</xliff:g>"</string>
+    <string name="about_summary" msgid="8460677224778433924">"Optimized LineageOS-14.1"</string>
+
     <string name="disabled_by_policy_title" msgid="627023216027648534">"Radnja nije dozvoljena"</string>
     <string name="default_admin_support_msg" msgid="239311515653633217">"Ova radnja je onemogućena. Kontaktirajte administratora svoje organizacije kako biste saznali više."</string>
     <string name="admin_support_more_info" msgid="8901377038510512654">"Više detalja"</string>
