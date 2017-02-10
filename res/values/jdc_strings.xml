@@ -48,9 +48,9 @@
     <string name="jdcteam">alucard_24, angelcalibur, AntaresOne, -+BB+-, FernBch, franzyroy, hawkerpaul, javelinanddart, Jimsilver73, josegalre, MattBooth, side, smeroni68, smstiv</string>
     <!--Optimized CM Settings-->
     <string name="ui_preferences">UI Preferences</string>
-    <string name="optcm_settings">Optimized CM Settings</string>
-    <string name="optcm_apps">Optimized CM Applications</string>
-    <string name="optcm_tweaks">Optimized CM Tweaks</string>
+    <string name="optcm_settings">Optimized LineageOS Settings</string>
+    <string name="optcm_apps">Optimized LineageOS Applications</string>
+    <string name="optcm_tweaks">Optimized LineageOS Tweaks</string>
     
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Quick unlock</string>
