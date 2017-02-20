@@ -28,12 +28,7 @@ LOCAL_MODULE_TAGS := optional
 
 LOCAL_SRC_FILES := \
         $(call all-java-files-under, src) \
-<<<<<<< HEAD
-        src/com/android/settings/EventLogTags.logtags
-=======
         $(call all-java-files-under, ../JDCSettings/src)
-
->>>>>>> f1668d0... Build JDCSettings into settings [2/3]
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
     frameworks/support/v7/preference/res \
