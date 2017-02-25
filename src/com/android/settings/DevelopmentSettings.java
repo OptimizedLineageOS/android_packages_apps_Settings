@@ -854,6 +854,7 @@ public class DevelopmentSettings extends RestrictedSettingsFragment
             mAdbOverNetwork.setSummary(R.string.adb_over_network_summary);
         }
         
+
     }
 
     private void writeForceAuthorizeSubstratumPackagesOptions() {
