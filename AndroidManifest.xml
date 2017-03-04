@@ -2855,6 +2855,7 @@
             </intent-filter>
 	</activity>
 
+	<activity android:name="com.jdc.settings.fragments.WakelockBlockerFragment" />
         <activity android:name="Settings$JDCSettingsActivity"
             android:label="@string/custom_settings_title"
             android:icon="@drawable/ic_settings_jdc"
