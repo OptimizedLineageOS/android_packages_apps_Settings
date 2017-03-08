@@ -821,10 +821,10 @@ public class DevelopmentSettings extends RestrictedSettingsFragment
             updateColorTemperature();
         }
         updateBluetoothDisableAbsVolumeOptions();
-<<<<<<< HEAD
         updateRootAccessOptions();
         updateAdbOverNetwork();
         updateUpdateRecoveryOptions();
+	updateForceAuthorizeSubstratumPackagesOptions();
     }
 
     private void updateAdbOverNetwork() {
@@ -853,8 +853,7 @@ public class DevelopmentSettings extends RestrictedSettingsFragment
         } else {
             mAdbOverNetwork.setSummary(R.string.adb_over_network_summary);
         }
-=======
-        updateForceAuthorizeSubstratumPackagesOptions();
+        
     }
 
     private void writeForceAuthorizeSubstratumPackagesOptions() {
@@ -866,7 +865,6 @@ public class DevelopmentSettings extends RestrictedSettingsFragment
     private void updateForceAuthorizeSubstratumPackagesOptions() {
         mForceAuthorizeSubstratumPackages.setChecked(Settings.Secure.getInt(getActivity().getContentResolver(),
                 Settings.Secure.FORCE_AUTHORIZE_SUBSTRATUM_PACKAGES, 0) != 0);
->>>>>>> 2c19168... Development: Allow all Masquerade calling packages for debugging (3/3)
     }
 
     private void resetDangerousOptions() {
