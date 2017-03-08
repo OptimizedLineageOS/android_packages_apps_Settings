@@ -161,22 +161,16 @@ public class AppOpsSummary extends InstrumentedFragment {
         mViewPager.setOnPageChangeListener(mAdapter);
         PagerTabStrip tabs = (PagerTabStrip) rootView.findViewById(R.id.tabs);
 
-<<<<<<< HEAD
         // HACK - https://code.google.com/p/android/issues/detail?id=213359
         ((ViewPager.LayoutParams)tabs.getLayoutParams()).isDecor = true;
 
         Resources.Theme theme = tabs.getContext().getTheme();
         TypedValue typedValue = new TypedValue();
         theme.resolveAttribute(android.R.attr.colorAccent, typedValue, true);
-        final int colorAccent = getContext().getColor(typedValue.resourceId);
-=======
-        Resources.Theme theme = tabs.getContext().getTheme();
-        TypedValue typedValue = new TypedValue();
-        theme.resolveAttribute(android.R.attr.colorAccent, typedValue, true);
         final int colorAccent = typedValue.resourceId != 0
                 ? getContext().getColor(typedValue.resourceId)
                 : getContext().getColor(R.color.switch_accent_color);
->>>>>>> 61bebf2... Settings: Guard against themes without colorAccent defined
+
         tabs.setTabIndicatorColor(colorAccent);
 
         // We have to do this now because PreferenceFrameLayout looks at it
