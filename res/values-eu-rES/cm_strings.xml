@@ -366,7 +366,7 @@
   <string name="app_ops_summaries_make_call">deitu</string>
   <string name="app_ops_summaries_use_fingerprint">hatz-marka erabili</string>
   <string name="app_ops_summaries_use_body_sensors">gorputz sentsoreak erabili</string>
-  <string name="app_ops_summaries_read_cell_broadcasts">zelulen banaketa mezuak irakurri</string>
+  <string name="app_ops_summaries_read_cell_broadcasts">irakurri difusio zelularrak</string>
   <string name="app_ops_summaries_mock_location">itxurazko kokapena</string>
   <string name="app_ops_summaries_read_external_storage">kanpo biltegiratzea irakurri</string>
   <string name="app_ops_summaries_write_external_storage">kanpo biltegiratzean idatzi</string>
@@ -436,7 +436,7 @@
   <string name="app_ops_labels_make_call">Deitu</string>
   <string name="app_ops_labels_use_fingerprint">Hatz-marka erabili</string>
   <string name="app_ops_labels_use_body_sensors">Gorputz sentsoreak erabili</string>
-  <string name="app_ops_labels_read_cell_broadcasts">Zelulen banaketa mezuak irakurri</string>
+  <string name="app_ops_labels_read_cell_broadcasts">Irakurri difusio zelularrak</string>
   <string name="app_ops_labels_mock_location">Itxurazko kokapena</string>
   <string name="app_ops_labels_read_external_storage">Kanpo biltegiratzea irakurri</string>
   <string name="app_ops_labels_write_external_storage">Kanpo biltegiratzean idatzi</string>
@@ -551,7 +551,7 @@
   <string name="double_tap_to_sleep_title">Birritan sakatu lokartzeko</string>
   <string name="double_tap_to_sleep_summary">Birritan sakatu egoera barran pantaila itzaltzeko</string>
   <!-- Proximity wake -->
-  <string name="proximity_wake_title">Ekidin ustekabeko esnatzea</string>
+  <string name="proximity_wake_title">Eragotzi ustekabeko esnatzea</string>
   <string name="proximity_wake_summary">Egiaztatu hurbiltasun sentsorea keinuen bidez eragindako esnatzeen aurretik</string>
   <!-- Turn on display when power connected; turn off display when power disconnected -->
   <string name="wake_when_plugged_or_unplugged_title">Esnatu kargadorearekin</string>
@@ -997,7 +997,7 @@
   <string name="live_lock_screen_settings_button">Ezarpenak</string>
   <!-- Live lock screen settings screen, caption for when live lock screens are disabled -->
   <string name="live_lock_screen_settings_disabled_prompt">Erabilgarri dauden blokeo pantaila biziak ikusteko, gaitu blokeo pantaila biziak.</string>
-  <string name="interruptions_ignore_while_media_title">Ekidin beherakadak audioan</string>
+  <string name="interruptions_ignore_while_media_title">Eragotzi beherakadak audioan</string>
   <string name="interruptions_ignore_while_media_summary">Ez gutxiagotu multimedia erreprodukzioaren bolumena jakinarazpen bat jasotzean</string>
   <!-- CM Legal -->
   <string name="cmlicense_title">CyanogenMod lizentzia</string>

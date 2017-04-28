@@ -173,7 +173,7 @@
   <string name="profile_lockmode_disabled_summary">השבתת מסך נעילה</string>
   <string name="profile_airplanemode_title">מצב טיסה</string>
   <string name="profile_brightness_title">בהירות מסך</string>
-  <string name="profile_brightness_override_summary">הגדר ל-%1$d%%</string>
+  <string name="profile_brightness_override_summary">קבע כ- %1$d%%</string>
   <string name="profile_brightness_override_checkbox_label">עקוף את הבהירות</string>
   <!-- Connection override toggles (not all are used at this time ) -->
   <string name="toggleWifi">Wi\u2011Fi</string>
@@ -859,15 +859,6 @@
   <string name="block_notifications_title">סנן התראות</string>
   <string name="block_notifications_summary">נהל התראות ומסננים שמהם התעלמת</string>
   <string name="no_filters_title">לא הוגדרו מסננים</string>
-<<<<<<< HEAD
-=======
-  <!-- Anonymous Statistics #CM -->
-  <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-  <string name="anonymous_statistics_title">סטטיסטיקות LineageOS</string>
-  <string name="anonymous_statistics_summary">עזור לשפר את LineageOS על ידי שליחת דיווחי סטטיסטיקות אנונימית</string>
-  <string name="anonymous_statistics_warning_title">אודות</string>
-  <string name="anonymous_statistics_warning">הצטרפות לסטטיסטיקת LineageOS תאפשר שליחת מידע לא אישי למפתחי LineageOS על מנת לאתר התקנות שונות בין מכשירים. המידע הנשלח כולל מזהה ייחודי, אשר אינו פוגע בפרטיותך או במידע שלך. המידע נשלח עם כל אתחול.\n\nכדי לצפות בדוגמה של מידע שנשלח, הקש על הצג דוגמה.</string>
->>>>>>> f7cb92e... Automatic translation import
   <string name="enable_reporting_title">הפעל דיווח</string>
   <string name="preview_data_title">תצוגה מקדימה של נתונים</string>
   <string name="view_stats_title">הצג סטטיסטיקות</string>

@@ -288,8 +288,8 @@
   <!-- Setting checkbox summary for Whether to enable Android debugging support on the phone -->
   <string name="enable_adb_summary_cm">啟用 Android Debug Bridge (adb) 介面</string>
   <!-- Android debugging over WiFi -->
-  <string name="adb_over_network">網路 ADB</string>
-  <string name="adb_over_network_summary">啟用透過網絡介面 (Wi-Fi、USB 網絡) 進行 TCP/IP 偵錯。此設定會於重啟後重設</string>
+  <string name="adb_over_network">透過網路 ADB</string>
+  <string name="adb_over_network_summary">啟用透過網路介面 (Wi\u2011Fi、USB 網路) 進行 TCP/IP 偵錯。該設定會在重新啟動後重設</string>
   <!-- Warning for Adb over Network -->
   <string name="adb_over_network_warning">警告：當啟用網路 ADB 時，您的手機將開放於所有已連接的網路！\n\n建議您已連接到信任的網路才使用此功能。\n\n您確定你想啟用此功能嗎？</string>
   <!-- Setting checkbox summary for displaying USB debugging notification -->
@@ -563,7 +563,7 @@
     multiple font sizes in a limited amount of space. -->
   <string name="font_size_sample">範例</string>
   <!-- Volume settings - Volume adjustment sound -->
-  <string name="volume_adjust_sounds_title">音量調整指示音</string>
+  <string name="volume_adjust_sounds_title">音量調整音效</string>
   <!-- Hardware tunables - Vibrator intensity -->
   <string name="vibrator_intensity_title">震動強度</string>
   <!-- Hardware tunables - Color calibration -->
@@ -737,8 +737,7 @@
   <string name="privacy_guard_help_title">說明</string>
   <string name="privacy_guard_reset_title">重設</string>
   <string name="privacy_guard_reset_text">重設權限？</string>
-  <string name="privacy_guard_help_text">在此畫面您只要輕按應用程式即可選擇是否對其啟用隱私守衛。被選取的應用程式將不能存取您的個人資料，例如聯絡人、訊息或通話記錄。長按應用程式可開啟其應用程式資訊畫面。\n\n內建應用程式預設不會顯示，但是可從選單中開啟顯示。</string>
-
+  <string name="privacy_guard_help_text">在此畫面您只要輕觸應用程式即可選擇是否對其啟用隱私守衛。被選取的應用程式將不能存取您的個人資料，例如聯絡人、訊息或通話記錄。長按應用程式可開啟其應用程式資訊畫面。\n\n內建應用程式預設不會顯示，但是可從選單中開啟顯示。</string>
   <string name="privacy_guard_manager_show_system_apps">顯示內建應用程式</string>
   <string name="privacy_guard_advanced_settings_title">進階</string>
   <!-- Sizes for pattern lockscreen -->
@@ -827,8 +826,7 @@
   <string name="blacklist_bad_number_add">無法將不正確的電話號碼加至已封鎖來電名單</string>
   <!-- Blacklist management -->
   <string name="remove_blacklist_number_title">移除號碼</string>
-
-  <string name="remove_blacklist_entry">您確定您要將此已封鎖電話號碼移除嗎？</string>
+  <string name="remove_blacklist_entry">您確定要將此已封鎖電話號碼移除嗎？</string>
   <string name="select_contact">選擇聯絡人</string>
   <!-- Sms security limit -->
   <string name="app_security_title">應用程式安全</string>
