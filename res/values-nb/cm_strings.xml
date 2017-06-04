@@ -40,7 +40,7 @@
   <string name="development_tools_title">Utviklingsverktøy</string>
   <!-- Development shortcut -->
   <string name="development_shortcut_title">Snarvei til utviklingsmodus</string>
-  <string name="development_shortcut_summary">Aktiver app management snarveier i listen over nylig brukte programmer</string>
+  <string name="development_shortcut_summary">Vis appbehandlingssnarveier i listen over nylig brukte programmer</string>
   <!-- Setting checkbox title for root access -->
   <string name="root_access">Root-tilgang</string>
   <string name="root_access_warning_title">Tillat root-tilgang?</string>
@@ -855,7 +855,6 @@
   <string name="block_notifications_title">Filtrere varsler</string>
   <string name="block_notifications_summary">Administrer ignorerte varsler og filtre</string>
   <string name="no_filters_title">Ingen filtre valgt</string>
-
   <string name="enable_reporting_title">Aktiver rapportering</string>
   <string name="preview_data_title">Forhåndsvis data</string>
   <string name="view_stats_title">Vis statistikk</string>
