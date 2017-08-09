@@ -58,14 +58,10 @@
   <!-- About phone screen, Device model -->
   <string name="device_model">Modeli i pajisjes</string>
   <!-- About phone screen, Device name -->
-<<<<<<< HEAD
-  <!-- About phone screen, CyanogenMod Api Level -->
-=======
   <string name="device_name">Emri i pajisjes</string>
   <!-- About phone screen, LineageOS Api Level -->
   <string name="mod_api_level">Niveli API i LineageOS</string>
   <string name="mod_api_level_default">I panjohur</string>
->>>>>>> 44489c1... Automatic translation import
   <!-- About phone screen, build date -->
   <string name="build_date">Data e ndërtimit</string>
   <!-- CM Updater -->
