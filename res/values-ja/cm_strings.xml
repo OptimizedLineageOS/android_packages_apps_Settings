@@ -998,11 +998,7 @@
   <string name="interruptions_ignore_while_media_title">オーディオダッキングを無効化</string>
   <string name="interruptions_ignore_while_media_summary">通知が来たときにメディアの再生音量を下げないようにする</string>
   <!-- CM Legal -->
-<<<<<<< HEAD
-  <string name="cmlicense_title">CyanogenMod利用規約</string>
-=======
   <string name="cmlicense_title">LineageOS 利用規約</string>
->>>>>>> 44489c1... Automatic translation import
   <!-- Menu label for reset the battery stats -->
   <string name="menu_stats_reset">統計をリセット</string>
   <!-- Reset stats confirmation dialog's message -->
