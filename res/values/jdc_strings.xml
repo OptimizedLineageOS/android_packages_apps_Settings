@@ -33,7 +33,7 @@
     <!-- Custom Settings -->   
     <!-- Dashboard -->
     <string name="header_category_custom">Optimized-LineageOS Settings</string>
-    <string name="custom_settings_title">Optimized-LineageOS Settings</string>
+    <string name="custom_settings_title">Tweaks</string>
     
     <!-- setting: show CPU info-->
     <string name="show_cpu_info">Show CPU info</string>
