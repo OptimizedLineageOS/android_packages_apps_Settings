@@ -3042,7 +3042,7 @@
     <string name="location_on_summary" msgid="5127631544018313587">"இயக்கு / <xliff:g id="LOCATION_MODE">%1$s</xliff:g>"</string>
     <string name="location_off_summary" msgid="6474350053215707957">"முடக்கு"</string>
     <string name="backup_disabled" msgid="485189128759595412">"காப்புப் பிரதி முடக்கப்பட்டுள்ளது"</string>
-    <string name="about_summary" msgid="8460677224778433924">"Optimized LineageOS-14.1"</string>
+    <string name="about_summary" msgid="8460677224778433924">"Palm Project-14.1"</string>
 
     <string name="disabled_by_policy_title" msgid="627023216027648534">"செயல் அனுமதிக்கப்படவில்லை"</string>
     <string name="default_admin_support_msg" msgid="239311515653633217">"செயல்பாடு முடக்கப்பட்டது. மேலும் அறிய, உங்கள் நிறுவனத்தின் நிர்வாகியைத் தொடர்புகொள்ளவும்."</string>

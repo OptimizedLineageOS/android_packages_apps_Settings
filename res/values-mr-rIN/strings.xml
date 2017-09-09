@@ -3042,7 +3042,7 @@
     <string name="location_on_summary" msgid="5127631544018313587">"चालू / <xliff:g id="LOCATION_MODE">%1$s</xliff:g>"</string>
     <string name="location_off_summary" msgid="6474350053215707957">"बंद"</string>
     <string name="backup_disabled" msgid="485189128759595412">"बॅक अप घेणे अक्षम केले"</string>
-    <string name="about_summary" msgid="8460677224778433924">"Optimized LineageOS-14.1"</string>
+    <string name="about_summary" msgid="8460677224778433924">"Palm Project-14.1"</string>
 
     <string name="disabled_by_policy_title" msgid="627023216027648534">"क्रियेस अनुमती नाही"</string>
     <string name="default_admin_support_msg" msgid="239311515653633217">"ही क्रिया अक्षम केली आहे. अधिक जाणून घेण्यासाठी आपल्या संस्थेच्या प्रशासकाशी संपर्क साधा."</string>

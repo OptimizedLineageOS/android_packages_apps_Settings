@@ -43,7 +43,7 @@
     <string name="root_appops_summary">View and control the root rules</string>
 
     <!-- About phone screen, CyanogenMod version -->
-    <string name="mod_version">OptimizedCM version</string>
+    <string name="mod_version">Palm Project version</string>
     <string name="mod_version_default">Unknown</string>
 
     <!-- About phone screen, Device model -->

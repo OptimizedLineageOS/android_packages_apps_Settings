@@ -3040,7 +3040,7 @@
     <string name="location_on_summary" msgid="5127631544018313587">"АСААЛТТАЙ / <xliff:g id="LOCATION_MODE">%1$s</xliff:g>"</string>
     <string name="location_off_summary" msgid="6474350053215707957">"УНТРААЛТТАЙ"</string>
     <string name="backup_disabled" msgid="485189128759595412">"Нөөцлөлт идэвхгүй болсон"</string>
-    <string name="about_summary" msgid="8460677224778433924">"Optimized LineageOS-14.1"</string>
+    <string name="about_summary" msgid="8460677224778433924">"Palm Project-14.1"</string>
 
     <string name="disabled_by_policy_title" msgid="627023216027648534">"Үйлдлийг зөвшөөрөөгүй"</string>
     <string name="default_admin_support_msg" msgid="239311515653633217">"Энэ үйлдлийг идэвхгүй болгосон. Дэлгэрэнгүй үзэхийн тулд байгууллагынхаа админтай холбогдоно уу."</string>

@@ -3042,7 +3042,8 @@
     <string name="location_on_summary" msgid="5127631544018313587">"ON / <xliff:g id="LOCATION_MODE">%1$s</xliff:g>"</string>
     <string name="location_off_summary" msgid="6474350053215707957">"OFF"</string>
     <string name="backup_disabled" msgid="485189128759595412">"Backup disabled"</string>
-    <string name="about_summary" msgid="8460677224778433924">"Optimized LineageOS-14.1"</string>
+    <string name="about_summary" msgid="8460677224778433924">"Palm Project-14.1"</string>
+
 
     <string name="disabled_by_policy_title" msgid="627023216027648534">"Action not allowed"</string>
     <string name="default_admin_support_msg" msgid="239311515653633217">"This action is disabled. Contact your organisation\'s administrator to find out more."</string>

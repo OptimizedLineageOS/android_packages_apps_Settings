@@ -3042,7 +3042,7 @@
     <string name="location_on_summary" msgid="5127631544018313587">"ဖွင့်ပါ၊ <xliff:g id="LOCATION_MODE">%1$s</xliff:g>"</string>
     <string name="location_off_summary" msgid="6474350053215707957">"ပိတ်ပါ"</string>
     <string name="backup_disabled" msgid="485189128759595412">"အရံကူးယူခြင်း ပိတ်ထားသည်"</string>
-    <string name="about_summary" msgid="8460677224778433924">"Optimized LineageOS-14.1"</string>
+    <string name="about_summary" msgid="8460677224778433924">"Palm Project-14.1"</string>
 
     <string name="disabled_by_policy_title" msgid="627023216027648534">"လုပ်ဆောင်ချက်ကို ခွင့်မပြုပါ"</string>
     <string name="default_admin_support_msg" msgid="239311515653633217">"ဤလုပ်ဆောင်ချက်ကို ပိတ်ထားသည်။ ပိုမိုလေ့လာရန် သင့်အဖွဲ့အစည်း၏ စီမံခန့်ခွဲသူကို ဆက်သွယ်ပါ။"</string>

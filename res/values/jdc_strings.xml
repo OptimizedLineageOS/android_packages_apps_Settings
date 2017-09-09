@@ -15,8 +15,8 @@
 
     <!--Optimized CM Settings-->
     <string name="ui_preferences">UI Preferences</string>
-    <string name="optcm_settings">Optimized LineageOS Settings</string>
-    <string name="optcm_apps">Optimized LineageOS Apps</string>
+    <string name="optcm_settings">Palm Project Settings</string>
+    <string name="optcm_apps">Palm Project Apps</string>
     
     <!--Contributing team-->
     <string name="contributing_team_menu">Contributing team</string>
@@ -26,13 +26,13 @@
 
     <!-- Change Log strings -->
     <string name="changelog_title">Changelog</string>
-    <string name="changelog_summary">Optimized-LineageOS changelog</string>
+    <string name="changelog_summary">Palm Project changelog</string>
     <string name="changelog_loading">Loading changelog\u2026</string>
     <string name="changelog_error">Unable to load changelog</string>
 
     <!-- Custom Settings -->   
     <!-- Dashboard -->
-    <string name="header_category_custom">Optimized-LineageOS Settings</string>
+    <string name="header_category_custom">Palm Project Settings</string>
     <string name="custom_settings_title">Tweaks</string>
     
     <!-- setting: show CPU info-->
@@ -41,7 +41,7 @@
     
     <!-- Change Log strings -->
     <string name="changelog_title">Changelog</string>
-    <string name="changelog_summary">Optimized LineageOS Changelog</string>
+    <string name="changelog_summary">Palm Project Changelog</string>
     <string name="changelog_loading">Loading changelog\u2026</string>
     <string name="changelog_error">Unable to load changelog</string>
     

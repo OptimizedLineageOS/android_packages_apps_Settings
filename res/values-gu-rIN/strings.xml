@@ -3044,7 +3044,8 @@
     <string name="location_on_summary" msgid="5127631544018313587">"ચાલુ / <xliff:g id="LOCATION_MODE">%1$s</xliff:g>"</string>
     <string name="location_off_summary" msgid="6474350053215707957">"બંધ"</string>
     <string name="backup_disabled" msgid="485189128759595412">"બેક અપ અક્ષમ કર્યું"</string>
-    <string name="about_summary" msgid="8460677224778433924">"Optimized LineageOS-14.1"</string>
+    <string name="about_summary" msgid="8460677224778433924">"Palm Project-14.1"</string>
+
 
     <string name="disabled_by_policy_title" msgid="627023216027648534">"ક્રિયાને મંજૂરી નથી"</string>
     <string name="default_admin_support_msg" msgid="239311515653633217">"આ ક્રિયા અક્ષમ કરેલ છે. વધુ જાણવા માટે તમારી સંસ્થાના વ્યવસ્થાપકનો સંપર્ક કરો."</string>
