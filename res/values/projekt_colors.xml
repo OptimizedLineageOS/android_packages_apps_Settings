@@ -70,7 +70,7 @@
     <color name="owner_info_text_color">#B3FFFFFF</color>
     <color name="data_usage_chart_series_fill_Color_Secondary">#ff80cbc4</color>
     <color name="data_usage_sweep_limit_label_Color">#fff4511e</color>
-    <color name="text_color_black">#191919</color>
+    <color name="text_color_black">@android:color/black</color>
     <color name="text_color_white">@android:color/white</color>
-    <color name="background_color_white">#191919</color>
+    <color name="background_color_white">@android:color/white</color>
 </resources>
