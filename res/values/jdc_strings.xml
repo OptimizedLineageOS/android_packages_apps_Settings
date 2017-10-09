@@ -54,4 +54,8 @@
     <string name="set">Set</string>
     <string name="color_default">Default</string>
     
+    <!--sRGB-->
+    <string name="srgb_title">sRGB</string>
+    <string name="srgb_summary">Enable sRGB display calibration</string>
+    
 </resources>
